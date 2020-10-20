@@ -1,4 +1,7 @@
-Big Data Applications Final Project Proposal
+# Big Data Applications Final Project Proposal
+
+- [ ] please use our template
+- [ ] please add refernces
 
 Team: Oluwatobi Bolarin
 
