@@ -1,11 +1,10 @@
-# Big Data Applications Final Project Proposal
+# Big Data Analytics in Brazilian E-Commerce
 
 - [ ] please use our template
 - [ ] please add refernces
 
-Team: Oluwatobi Bolarin
+Oluwatobi Bolarin
 
-Topic: Big Data Analytics in Brazilian E-Commerce.
 
 Dataset: [https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist\_products\_dataset.csv](https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist_products_dataset.csv)
 
