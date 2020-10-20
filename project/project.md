@@ -10,6 +10,12 @@ Oluwatobi Bolarin,bolarint@iu.edu,https://github.com/cybertraining-dsc/fa20-523-
 As the world begins to utilize online service and stores at greater capacity it becomes a greater priority to increase the efficiency of the various processes that are required for online stores to work effectively. By analyzing the data the comes from online purchases, a better understanding can be formed about what is needed and where as well as the quantity. This data should also allow for us to better predict what orders will be needed at future times so shortages can be avoided. 
 
 
+## Content
+* Topic Discussion
+* Dataset
+* Data Clean and Aggregation
+* Preliminary Findings
+* Plans for the Rest of the semester
 
 
 Dataset: [https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist\_products\_dataset.csv](https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist_products_dataset.csv)
