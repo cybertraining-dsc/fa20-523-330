@@ -2,6 +2,8 @@
 
 - [ ] please use our template
 - [ ] please add refernces
+- [ ] please no file names and images with spaces in teh filename
+- [ ] please move all images into an images dir
 
 Oluwatobi Bolarin,bolarint@iu.edu,https://github.com/cybertraining-dsc/fa20-523-330/
 
