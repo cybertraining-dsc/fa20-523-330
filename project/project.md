@@ -45,6 +45,11 @@ Getting data on reoccurring customers is a must if I&#39;m able to do so. Being 
 
 For the conclusion I should be able to point out any trends that could help potential grow in brazil by introducing more products or determining which products aren&#39;t as important or which prices should be increased for the sake of profit.
 
+
+## Introduction
+Brazil has the largest E-commerce market in Latin America. "It has been estimated that the country accounts for over one third of the region's ecommerce market"[2]. However, the growth of the potential e-commerce giant has problems that could potential stunt its long term growth. In this analysis I will try to better illustrate a better picture to determine more partical ways to increase e-commerce growth in Brazil and possibile by extention this method can be superimposed on other regions of the world. 
+
 ## Refrences
-1. Olist. “Brazilian E-Commerce Public Dataset by Olist.” Kaggle, 29 Nov. 2018, www.kaggle.com/olistbr/brazilian-ecommerce. 
+1. Olist. “Brazilian E-Commerce Public Dataset by Olist.” Kaggle, 29 Nov. 2018, www.kaggle.com/olistbr/brazilian-ecommerce.
+2. Navarro, José Gabriel. “Topic: E-Commerce in Brazil.” Statista, www.statista.com/topics/4697/e-commerce-in-brazil/. 
 
