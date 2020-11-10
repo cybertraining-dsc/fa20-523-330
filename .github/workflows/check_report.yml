@@ -1,31 +1,29 @@
-# This workflows will upload a Python Package using Twine when a release is created
-# For more information see: https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions#publishing-to-package-registries
+name: Check Report
 
-name: Upload Python Package
+on: [push]
 
-on:
-  release:
-    types: [created]
+#on:
+#  workflow_dispatch:
+#    inputs:
+#      name:
+#        description: 'Check Report'
 
 jobs:
-  deploy:
+  build:
 
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
-    - name: Set up Python
+    - name: Set up Python 3.x
       uses: actions/setup-python@v2
       with:
-        python-version: '3.x'
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install setuptools wheel twine
-    - name: Build and publish
-      env:
-        TWINE_USERNAME: ${{ secrets.PYPI_USERNAME }}
-        TWINE_PASSWORD: ${{ secrets.PYPI_PASSWORD }}
-      run: |
-        python setup.py sdist bdist_wheel
-        twine upload dist/*
+        python-version: '3.x' 
+        architecture: 'x64' 
+    - name: wget markdown-check.py
+      run: wget https://raw.githubusercontent.com/cybertraining-dsc/cybertraining-dsc.github.io/master/bin/markdown-check.py      
+    - name: Run Check
+      run: python3 markdown-check.py project/project.md
+      # run: python3 markdown-check.py report/report.md
+      # run: python markdown-check.py paper/_index.md
+      
