@@ -1,5 +1,7 @@
 # Big Data Analytics in Brazilian E-Commerce
 
+[![Check Report](https://github.com/cybertraining-dsc/fa20-523-330/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-330/actions)
+
 - [ ] please use our template
   - [ ] please use numbered sections
   - [ ] please see our template how ti include images
