@@ -31,7 +31,9 @@ Contents
 Dataset: [https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist\_products\_dataset.csv](https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist_products_dataset.csv)
 
 
-![](images/figure1.png)[^1]
+![Preliminary results](https://github.com/cybertraining-dsc/fa20-523-330/raw/master/project/images/prelimresults.png)
+
+**Figure 1:** Preliminary results [^1]
 
 It seems that people in specific zip codes order more from amazon then others.
 
