@@ -68,7 +68,7 @@ Brazil has the largest E-commerce market in Latin America. "It has been estimate
 
 ## Refrences
 
-[^11: Olist. "Brazilian E-Commerce Public Dataset by Olist." Kaggle, 29 Nov. 2018, <www.kaggle.com/olistbr/brazilian-ecommerce>.
+[^1]: Olist. "Brazilian E-Commerce Public Dataset by Olist." Kaggle, 29 Nov. 2018, <www.kaggle.com/olistbr/brazilian-ecommerce>.
 
 [^2]: Navarro, José Gabriel. "Topic: E-Commerce in Brazil." Statista, <www.statista.com/topics/4697/e-commerce-in-brazil/>. 
 
