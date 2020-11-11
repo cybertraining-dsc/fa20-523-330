@@ -31,7 +31,7 @@ Contents
 Dataset: [https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist\_products\_dataset.csv](https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist_products_dataset.csv)
 
 
-![Preliminary results](https://github.com/cybertraining-dsc/fa20-523-330/raw/master/project/images/prelimresults.png)
+![Preliminary results](https://github.com/cybertraining-dsc/fa20-523-330/raw/master/project/images/figure1.png)
 
 **Figure 1:** Preliminary results [^1]
 
