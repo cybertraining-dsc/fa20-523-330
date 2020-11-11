@@ -4,7 +4,7 @@
 
 - [ ] please use our template
   - [ ] please use numbered sections
-  - [ ] please see our template how ti include images
+  - [ ] please see our template how to include images
   - [ ] please see template how to use refernces
 - [ ] please add refernces
 
@@ -30,7 +30,8 @@ Contents
 
 Dataset: [https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist\_products\_dataset.csv](https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist_products_dataset.csv)
 
-![](images/figure1.png)[1]
+
+![](images/figure1.png)[^1]
 
 It seems that people in specific zip codes order more from amazon then others.
 
@@ -60,10 +61,11 @@ For the conclusion I should be able to point out any trends that could help pote
 
 ## Introduction
 
-Brazil has the largest E-commerce market in Latin America. "It has been estimated that the country accounts for over one third of the region's ecommerce market"[2]. However, the growth of the potential e-commerce giant has problems that could potential stunt its long term growth. In this analysis I will try to better illustrate a better picture to determine more partical ways to increase e-commerce growth in Brazil and possibile by extention this method can be superimposed on other regions of the world. 
+Brazil has the largest E-commerce market in Latin America. "It has been estimated that the country accounts for over one third of the region's ecommerce market"[^2]. However, the growth of the potential e-commerce giant has problems that could potential stunt its long term growth. In this analysis I will try to better illustrate a better picture to determine more partical ways to increase e-commerce growth in Brazil and possibile by extention this method can be superimposed on other regions of the world. 
 
 ## Refrences
 
-1. Olist. “Brazilian E-Commerce Public Dataset by Olist.” Kaggle, 29 Nov. 2018, www.kaggle.com/olistbr/brazilian-ecommerce.
-2. Navarro, José Gabriel. “Topic: E-Commerce in Brazil.” Statista, www.statista.com/topics/4697/e-commerce-in-brazil/. 
+[^11: Olist. "Brazilian E-Commerce Public Dataset by Olist." Kaggle, 29 Nov. 2018, <www.kaggle.com/olistbr/brazilian-ecommerce>.
+
+[^2]: Navarro, José Gabriel. "Topic: E-Commerce in Brazil." Statista, <www.statista.com/topics/4697/e-commerce-in-brazil/>. 
 
