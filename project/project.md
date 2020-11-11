@@ -7,6 +7,7 @@
   - [ ] please see our template how to include images
   - [ ] please see template how to use refernces
 - [ ] please add refernces
+- [ ] the preliminary zip code analysis needs calrification. Population data for example is not considered. Just the folume of sales seems to limited of an analysis
 
 Oluwatobi Bolarin, bolarint@iu.edu, [fa20-523-330](https://github.com/cybertraining-dsc/fa20-523-330/), [Edit](https://github.com/cybertraining-dsc/fa20-523-330/blob/master/project/project.md)
 
