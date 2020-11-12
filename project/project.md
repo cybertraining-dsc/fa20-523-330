@@ -8,6 +8,12 @@
   - [ ] please see template how to use refernces
 - [ ] please add refernces
 - [ ] the preliminary zip code analysis needs calrification. Population data for example is not considered. Just the folume of sales seems to limited of an analysis
+- [ ] Please fix the following template issues
+  - [ ] Use numbered section headers.
+  - [ ] To few sections in the report.
+  - [ ] Could not find section Conclusion.
+  - [ ] Your README.yml is not set up properly.See example at: https://github.com/cybertraining-dsc/fa20-523-312/blob/master/README.yml
+
 
 Oluwatobi Bolarin, bolarint@iu.edu, [fa20-523-330](https://github.com/cybertraining-dsc/fa20-523-330/), [Edit](https://github.com/cybertraining-dsc/fa20-523-330/blob/master/project/project.md)
 
