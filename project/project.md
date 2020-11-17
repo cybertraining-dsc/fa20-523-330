@@ -12,10 +12,10 @@
   - [ ] Use numbered section headers.
   - [ ] To few sections in the report.
   - [ ] Could not find section Conclusion.
-  - [ ] Your README.yml is not set up properly.See example at: https://github.com/cybertraining-dsc/fa20-523-312/blob/master/README.yml
+  - [ ] Your README.yml is not set up properly.See example at: https://github.com/cybertraining-dsc/fa20-523-312/blob/main/README.yml
 
 
-Oluwatobi Bolarin, bolarint@iu.edu, [fa20-523-330](https://github.com/cybertraining-dsc/fa20-523-330/), [Edit](https://github.com/cybertraining-dsc/fa20-523-330/blob/master/project/project.md)
+Oluwatobi Bolarin, bolarint@iu.edu, [fa20-523-330](https://github.com/cybertraining-dsc/fa20-523-330/), [Edit](https://github.com/cybertraining-dsc/fa20-523-330/blob/main/project/project.md)
 
 {{% pageinfo %}}
 
@@ -38,7 +38,7 @@ Contents
 Dataset: [https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist\_products\_dataset.csv](https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist_products_dataset.csv)
 
 
-![Preliminary results](https://github.com/cybertraining-dsc/fa20-523-330/raw/master/project/images/figure1.png)
+![Preliminary results](https://github.com/cybertraining-dsc/fa20-523-330/raw/main/project/images/figure1.png)
 
 **Figure 1:** Preliminary results [^1]
 
