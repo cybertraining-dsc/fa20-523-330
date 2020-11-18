@@ -1,6 +1,8 @@
 # Big Data Analytics in Brazilian E-Commerce
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-330/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-330/actions)
+[![Status](https://github.com/cybertraining-dsc/fa20-523-330/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-330/actions)
+Status: in progress
 
 - [ ] please use our template
   - [ ] please use numbered sections
