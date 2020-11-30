@@ -1,9 +1,4 @@
 # Big Data Analytics in Brazilian E-Commerce
-
-- [ ] please use our template
-  - [ ] please use numbered sections
-  - [ ] please see our template how to include images
-  - [ ] please see template how to use refernces
 - [ ] please add refernces
 - [ ] the preliminary zip code analysis needs calrification. Population data for example is not considered. Just the folume of sales seems to limited of an analysis
 - [ ] Please fix the following template issues
