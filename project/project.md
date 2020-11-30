@@ -58,6 +58,8 @@ I will need to correctly articulate the scope of what the dataset is measuring a
 ## 5. Inference
 
 NOTE: This section will continue to be updated until project completion.
+**Figure 1:** First set of preliminary data showing zicode density
+1[ZIP from Python](https://github.com/cybertraining-dsc/fa20-523-330/raw/master/project/images/figure1.png)
 
 
 **Figure 2:** First set of preliminary output results (in python data-frame) and median values for the four water-quality parameters
