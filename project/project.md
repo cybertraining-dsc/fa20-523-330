@@ -1,12 +1,5 @@
 # Big Data Analytics in Brazilian E-Commerce
-- [ ] please add refernces
 - [ ] the preliminary zip code analysis needs calrification. Population data for example is not considered. Just the folume of sales seems to limited of an analysis
-- [ ] Please fix the following template issues
-  - [ ] Use numbered section headers.
-  - [ ] To few sections in the report.
-  - [ ] Could not find section Conclusion.
-  - [ ] Your README.yml is not set up properly.See example at: https://github.com/cybertraining-dsc/fa20-523-312/blob/main/README.yml
-
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-330/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-330/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-330/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-330/actions)
