@@ -26,7 +26,7 @@ Contents
 
 ## 1. Introduction
 
-Brazil has the largest E-commerce market in Latin America. "It has been estimated that the country accounts for over one third of the region's ecommerce market"[^2]. However, the growth of the potential e-commerce giant has problems that could potential stunt its long term growth. In this analysis I will try to better illustrate a better picture to determine more partical ways to increase e-commerce growth in Brazil and possibile by extention this method can be superimposed on other regions of the world. 
+Brazil has the largest E-commerce market in Latin America. "It has been estimated that the country accounts for over one third of the region's ecommerce market"[^2]. However, the growth of the potential e-commerce giant has problems that could potential stunt its long term growth. In this analysis will attempt to better illustrate a better picture to determine more partical ways to increase e-commerce growth in Brazil and possibile by extention this method can be superimposed on other regions of the world. 
 
 
 
@@ -36,15 +36,15 @@ Brazil has the largest E-commerce market in Latin America. "It has been estimate
 
 ## 3. Choice of Data-sets
 
-After exploring a vast amount of data available, I choose the following dataset in order to analyze Amazon sales data in brazil to get an unbias look at what sells on average.
+After exploring a vast amount of data available, it was best to choose the following dataset in order to analyze Amazon sales data in brazil to get an unbias look at what sells on average.
 
 1. [Amazon Sales Data](https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist_products_dataset.csv) [^1]
 
-For this project I need to work with a dataset of 100,000 that has various amazon orders ranging from basic items to more expensive and complex things. The only limiter is what was being sold on amazon at that point in time. The data set size is only 120.3 MB and I will be using markdown to show my findings and how I got to them.
+For this project work is done with a dataset of 100,000 that has various amazon orders ranging from basic items to more expensive and complex things. The only limiter is what was being sold on amazon at that point in time. The data set size is only 120.3 MB and markdown will be used to show the findings and the method got to them.
 
 ## 4. Methodology
 
-I will need to correctly articulate the scope of what the dataset is measuring and the region that it is as well as when the data was collected for the project. I will also need to come up with a viable solution for any (if there is) missing data that exists in the data set. I should also look into the ways that the different data sheets interact with one another to find any patterns or factors that could exist that aren&#39;t otherwise easily seen.
+To correctly articulate the scope of what the dataset is measuring and the region that it is as well as when the data was collected for the project. It is also needed to come up with a viable solution for any (if there is) missing data that exists in the data set. Looking into ways that that the different data sheets interact with one another to find any patterns or factors that could exist that aren&#39;t otherwise easily seen is needed as well.
 
 ## 5. Inference
 
