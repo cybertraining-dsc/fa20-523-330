@@ -1,6 +1,7 @@
 # Big Data Analytics in Brazilian E-Commerce
 
 -[x] anticipated by Fri 11.12.2020
+
 -[x] the preliminary zip code analysis needs calrification. Population data for example is not considered. Just the folume of sales seems to limited of an analysis
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-330/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-330/actions)
