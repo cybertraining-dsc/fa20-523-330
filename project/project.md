@@ -6,7 +6,7 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-330/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-330/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-330/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-330/actions)
-Status: in progress, Type: Project
+Status: final, Type: Project
 
 Oluwatobi Bolarin, bolarint@iu.edu, [fa20-523-330](https://github.com/cybertraining-dsc/fa20-523-330/), [Edit](https://github.com/cybertraining-dsc/fa20-523-330/blob/main/project/project.md)
 
