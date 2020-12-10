@@ -40,11 +40,13 @@ This is a similar issue that supply chains around the world had, except, with on
 
 ## 3. Choice of Data-sets
 
-After exploring a vast amount of data available, it was best to choose the following dataset in order to analyze Amazon sales data in brazil to get an unbias look at what sells on average.
+After exploring a vast amount of data available, it was best to choose the following two datasets in order to analyze Amazon sales data in brazil to get an unbiased look at what sells on average.
 
-1. [Amazon Sales Data](https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist_products_dataset.csv) [^1]
+1. Amazon Sales Data(https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist_products_dataset.csv)[^1]
 
+The two datasets that will speficialy be using in this file will be the “olist_customers_dataset.csv” and the “olist_order_items_dataset.csv”. Both of the datasets are needed for this project because to obtain the location data from customers the zip code of the customer is needed for the olist_customers_dataset.csv dataset and the name of the order and specifically the category that it is in is held in the olist_order_items_dataset.csv dataset.
 For this project work is done with a dataset of 100,000 that has various amazon orders ranging from basic items to more expensive and complex things. The only limiter is what was being sold on amazon at that point in time. The data set size is only 120.3 MB and markdown will be used to show the findings and the method got to them.
+
 
 ## 4. Methodology
 
