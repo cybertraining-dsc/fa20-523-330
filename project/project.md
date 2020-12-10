@@ -31,6 +31,7 @@ Brazil has the largest E-commerce market in Latin America. "It has been estimate
 
 
 ## 2. Background Research and Previous Work
+
 The study of economics is understanding the best way how to deal with scarcity. Earning a bachelor’s degree in economics didn’t feel satisfying enough due to my love for technology. Determine how resources are allocated is one of the most important decision that can be made in our modern world regardless of our region, race, occupations, or economical class.
 
 Working in restaurants for 7 years working through undergrad the opportunity to learn numerous social and management skills. However, there would always be never ending problems present thing themselves through the day. One of the most painful ones would consistently be the fact that we would run out of things. Surplus were hardly considered acceptable and when there was a shortage the workers would pay the price. This would be understandable in places that just opened for less than a year, however in restaurants that had been in business for a while it was inexcusable. People can reason that, it was a busy day so we didn’t know that it would sell out, that a product went bad that wasn’t counted before, or someone made an ordering error. However, none of those excuses are valid in a place that has been running for a while because they should have an estimate about how much they should be growing and how much extra product they should by to ensure the fact that they don’t run out.
@@ -44,7 +45,7 @@ After exploring a vast amount of data available, it was best to choose the follo
 
 1. Amazon Sales Data(https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist_products_dataset.csv)[^1]
 
-The two datasets that will speficialy be using in this file will be the “olist_customers_dataset.csv” and the “olist_order_items_dataset.csv”. Both of the datasets are needed for this project because to obtain the location data from customers the zip code of the customer is needed for the olist_customers_dataset.csv dataset and the name of the order and specifically the category that it is in is held in the olist_order_items_dataset.csv dataset.
+The two datasets that will speficialy be using in this file will be the "olist_customers_dataset.csv" and the "olist_order_items_dataset.csv". Both of the datasets are needed for this project because to obtain the location data from customers the zip code of the customer is needed for the olist_customers_dataset.csv dataset and the name of the order and specifically the category that it is in is held in the olist_order_items_dataset.csv dataset.
 For this project work is done with a dataset of 100,000 that has various amazon orders ranging from basic items to more expensive and complex things. The only limiter is what was being sold on amazon at that point in time. The data set size is only 120.3 MB and markdown will be used to show the findings and the method got to them.
 
 
