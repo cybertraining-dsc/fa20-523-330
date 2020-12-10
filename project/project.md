@@ -31,7 +31,11 @@ Brazil has the largest E-commerce market in Latin America. "It has been estimate
 
 
 ## 2. Background Research and Previous Work
+The study of economics is understanding the best way how to deal with scarcity. Earning a bachelor’s degree in economics didn’t feel satisfying enough due to my love for technology. Determine how resources are allocated is one of the most important decision that can be made in our modern world regardless of our region, race, occupations, or economical class.
 
+Working in restaurants for 7 years working through undergrad the opportunity to learn numerous social and management skills. However, there would always be never ending problems present thing themselves through the day. One of the most painful ones would consistently be the fact that we would run out of things. Surplus were hardly considered acceptable and when there was a shortage the workers would pay the price. This would be understandable in places that just opened for less than a year, however in restaurants that had been in business for a while it was inexcusable. People can reason that, it was a busy day so we didn’t know that it would sell out, that a product went bad that wasn’t counted before, or someone made an ordering error. However, none of those excuses are valid in a place that has been running for a while because they should have an estimate about how much they should be growing and how much extra product they should by to ensure the fact that they don’t run out.
+
+This is a similar issue that supply chains around the world had, except, with one problem you would have to deal with numerous angry customers and the other it was a matter of lives. This matter should increase the emphasis that we should have more relax supply chains in our world then over-worked ones. It seems that it is in worlds best interest that we start formatting our data in a more readable way for ever one to see a understand so we can do a better job of managing where we place our resources. Constantly determining what is being done well and what needs to be working on and improved. This analysis will attempt to better illustrate a better picture to determine more practical ways to increase e-commerce growth in Brazil and possible by extension this method can be superimposed on other regions of the world. 
 
 
 ## 3. Choice of Data-sets
