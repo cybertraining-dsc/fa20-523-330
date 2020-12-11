@@ -48,6 +48,9 @@ After exploring a vast amount of data available, it was best to choose the follo
 The two datasets that will speficialy be using in this file will be the "olist_customers_dataset.csv" and the "olist_order_items_dataset.csv". Both of the datasets are needed for this project because to obtain the location data from customers the zip code of the customer is needed for the olist_customers_dataset.csv dataset and the name of the order and specifically the category that it is in is held in the olist_order_items_dataset.csv dataset.
 For this project work is done with a dataset of 100,000 that has various amazon orders ranging from basic items to more expensive and complex things. The only limiter is what was being sold on amazon at that point in time. The data set size is only 120.3 MB and markdown will be used to show the findings and the method got to them.
 
+![Dataset Image Map](https://github.com/cybertraining-dsc/fa20-523-330/raw/main/project/images/datasetImage.png)
+
+**Figure 1:** Database Map[^1]
 
 ## 4. Methodology
 
