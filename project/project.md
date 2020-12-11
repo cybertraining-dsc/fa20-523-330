@@ -9,7 +9,7 @@
 - [x] Use numbered section headers.
 - [x] To few sections in the report.
 - [x] Could not find section Conclusion.
-- [x] Your README.yml is not set up properly.See example at: https://github.com/cybertraining-dsc/fa20-523-312/blob/master/README.yml
+- [x] Your README.yml is not set up properly.See example at: <https://github.com/cybertraining-dsc/fa20-523-312/blob/master/README.yml>
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-330/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-330/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-330/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-330/actions)
