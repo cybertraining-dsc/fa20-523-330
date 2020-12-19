@@ -71,9 +71,13 @@ NOTE: This section will continue to be updated until project completion.
 
 **Figure 2:** First set of preliminary data showing zicode density
 
-**Figure 3:** First set of preliminary output results (in python data-frame) and median values for the four water-quality parameters
+![Heatmap Data](https://github.com/cybertraining-dsc/fa20-523-330/raw/main/project/images/figure3.png)
 
-**Figure 4:** Line, Scatter, and Histogram plots for the water-quality parameter involving "Temperature"
+**Figure 3:** Shows Heat map of all the data
+
+![Sales Per City](https://github.com/cybertraining-dsc/fa20-523-330/raw/main/project/images/figure2.png)
+
+**Figure 4:** Shows Sales per City
 
 **Figure 5:** Line, Scatter, and Histogram plots for the water-quality parameter involving "Specific Conductance"
 
