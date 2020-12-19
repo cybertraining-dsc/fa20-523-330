@@ -47,3 +47,14 @@ city_orders = pd.DataFrame(df.groupby(['customer_city'])['product_category_name'
 plt.figure(99)
 plt.hist(df['customer_state'])
 state_sales = pd.DataFrame(df.groupby(['customer_state'])['customer_state'].count())
+plt.figure(97)
+
+dfsp = df[df['customer_state']=='SP']
+dfsp['product_category_name'] = dfsp['product_category_name'].astype(str)
+plt.hist(dfsp['product_category_name'])
+plt.figure(96)
+products_SP = pd.DataFrame(dfsp.groupby(['product_category_name'])['product_category_name'].count()).astype(int)
+products_SP = products_SP.rename(columns={'product_category_name':'product'})
+products_SP.reset_index(level=0, inplace=True)
+products_SP["product_category_name"] = products_SP["product_category_name"].astype(str)
+plt.bar(products_SP["product_category_name"],products_SP["product"])
