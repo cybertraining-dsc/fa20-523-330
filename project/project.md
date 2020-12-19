@@ -79,25 +79,20 @@ NOTE: This section will continue to be updated until project completion.
 
 **Figure 4:** Shows Sales per City
 
-**Figure 5:** Line, Scatter, and Histogram plots for the water-quality parameter involving "Specific Conductance"
+![Products](https://github.com/cybertraining-dsc/fa20-523-330/raw/main/project/images/figure4.png)
 
-**Figure 6:** Line, Scatter, and Histogram plots for the water-quality parameter involving "pH"
+**Figure 5:** Histogram for different products
 
-**Figure 7:** Line, Scatter, and Histogram plots for the water-quality parameter involving "Dissolved Oxygen level"
+![SP State Products](https://github.com/cybertraining-dsc/fa20-523-330/raw/main/project/images/figure5.png)
 
-### Benchmark Results
+**Figure 6:** Histogram for products sold In SP State.
 
-- First Benchmark results (To be updated further)
 
-**Figure 7:** First Benchmark results for the created data analysis framework 
-
-- Second Benchmark results (Will be updated soon)
-- Third Benchmark results (Will be updated soon)
 
 
 ## 6. Conclusion
 
-NOTE: This section will be addressed upon project completion.
+
 
 ## 7. Acknowledgements
 
