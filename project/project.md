@@ -72,7 +72,7 @@ For example, we can determine the average freight_value for any area in our data
 By linking the products_id to the olist_products_dataset an analysis can be done with about specific product information and the region that it is going to. The most important for this analysis, however, would be the product_category_name. This is important because the product category that is ordered can now be linked with the region that it is going to. Down to an area as small as a zip code. Ultimately, this could potential help determine how much what should be store and where to best help the customers and increase 2-day completion rates without over burdening the work force any more then necessary. From this large data frame, it can now be determining what type of products are ordered this most in what regions. If this information is utilized correctly and efficiently it can greatly reduce the stress of a supply chain. By increase the supply chain’s efficiency without increasing the load we can create slack that will be able to minimize the stress a supply chain suffers when demand is higher than usual for any reason.
 
 
-## 5. Inference
+## 5. Analysis
 
 NOTE: This section will continue to be updated until project completion.
 
