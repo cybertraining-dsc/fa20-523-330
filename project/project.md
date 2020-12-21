@@ -84,13 +84,15 @@ For the figure above, figure 2, this is a histogram of the various zip codes in 
 
 **Figure 3:** Shows Heat map of all the data
 
+For the figure above, figure 3, this is a heatmap showing all of the data. This type of graph really doesn’t make sense with the parameters that it was set with. It would have been more helpful to show, like in figure 2, the relationship between the areas and the amount of people that were in the areas. It would also be good to use it for the visualization of areas and the number of products for each area as well as how much is made revenue in each area. The problem with the current format is the fact that it is trying to incorporate strings as well as various numbers that just make all the data harder to understand.
+
 ![Sales Per City](https://github.com/cybertraining-dsc/fa20-523-330/raw/main/project/images/figure2.png)
 
-**Figure 4:** Shows Sales per City
+**Figure 4:** Shows Sales per State
 
 ![Products](https://github.com/cybertraining-dsc/fa20-523-330/raw/main/project/images/figure4.png)
 
-**Figure 5:** Histogram for different products
+**Figure 5:** Histogram for different products in Brazil
 
 ![SP State Products](https://github.com/cybertraining-dsc/fa20-523-330/raw/main/project/images/figure5.png)
 
