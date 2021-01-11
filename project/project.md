@@ -90,15 +90,19 @@ Figure 3 is a heatmap showing all of the data. This type of graph really doesn�
 
 **Figure 4:** Shows Sales per State
 
+Figure 4 is a histogram that shows the number of sales for each state in Brazil. Although this graph is an improvement in terms of relying relevant information it doesn’t do a good enough job. Because this graph is a histogram and not a bar graph it doesn’t show the number of sales in individual states, but rather shows the sales numbers of groups of states. The reason why that isn’t optimal is because it gives the illusion of a trend by helping viewers assume that the states group together are group for a reason, when the only reason is for the groupings is the number of sales that is in each area not the area that the products were delivered. 
+
 ![Products](https://github.com/cybertraining-dsc/fa20-523-330/raw/main/project/images/figure4.png)
 
 **Figure 5:** Histogram for different products in Brazil
+
+Figure 5 also has similar problems in terms of visualization. One problem is the fact that it mimics at lot of the problems that figure 4 had, like how things are group. However, the second problem is the worst one; the fact that the labels can’t be read. The reason why this occurs is due to the large amount of data that includes 73 different categories of products as well the fact that the graph is also a histogram. This problem is a slightly more complex on to fix just because of the amount of data, no matter how it would be addressed it would be too large. The most beneficial method would be to show the top 6 products and one more bar of the remainder of the sections and that may be able to better demonstrate the different levels of products in a more impactful way. Couple with this would be a list that shows the amount for all the categories as well as the percent that the categories fill. 
 
 ![SP State Products](https://github.com/cybertraining-dsc/fa20-523-330/raw/main/project/images/figure5.png)
 
 **Figure 6:** Histogram for products sold In SP State.
 
-
+Figure 6 has similar problems to Figure 4 and 5 however, it would show more information if than the others because the scope is much smaller. One of the most glaring problems is the exact same as figure 5, which is having too much on the X-axis. The majority of the problems can be fixed by reducing the scope of that data that we are trying to look at as well as not visualizing big sets and just listing them out in an organized fashion.
 
 
 ## 6. Conclusion
