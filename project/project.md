@@ -7,7 +7,7 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-330/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-330/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-330/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-330/actions)
-Status: in progress approved, Type: Project
+Status: Final, Type: Project
 
 Oluwatobi Bolarin, bolarint@iu.edu, [fa20-523-330](https://github.com/cybertraining-dsc/fa20-523-330/), [Edit](https://github.com/cybertraining-dsc/fa20-523-330/blob/main/project/project.md)
 
@@ -106,6 +106,12 @@ Figure 6 has similar problems to Figure 4 and 5 however, it would show more info
 
 
 ## 6. Conclusion
+
+E-Commerce will only continue to grow world around the world, not just in Brazil and the United States. With the constant exponential growth and possibility for expansions being able to identity and eventually predict when and where warehouse should be places as well as where they should be place will help not only in day-to-day functions but in times of duress. The analysis and methods done had good intentions but did not achieve the desired result.
+
+The problems with the methodology and the analysis are the fact that the scope of the data that each graph was trying to visualize was just far too large and not organized inherently to accommodate the smaller scopes of data that was needed in order to perform a helpful analysis that could bring anything meaningful to observe. This in itself is a lesson about how to handle big data.
+
+With accurate and precise data analysis it can be said that we can improve the logistical capability of all shipping company and companies that ship things. With improve logistics most items can be move more efficiently and consistently to customers with items that are order frequently. With the extra efficiency, if allocated correctly, could be used as a preemptive measure to allow for emergency supplies to always be able to be distributed on the supply chain regardless of the circumstance.
 
 
 
