@@ -1,9 +1,14 @@
-# Big Data Analytics in Brazilian E-Commerce
-
-- [x] anticipated by Fri 11.12.2020
-- [x] the preliminary zip code analysis needs calrification. Population data for example is not considered. Just the folume of sales seems to limited of an analysis
-- [x] 2 references is a bit few
-- [x] Conclusion TBD
+---
+date: 2021-03-15
+title: Big Data Analytics in Brazilian E-Commerce
+linkTitle: Brazilian E-Commerce
+tags: ["project", "ai", "finance"]
+description: Big Data Analytics in Brazilian E-Commerce
+author: Oluwatobi Bolarin
+resources:
+- src: "**.{png,jpg}"
+  title: "Image #:counter"
+---
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-330/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-330/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-330/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-330/actions)
