@@ -5,6 +5,7 @@ linkTitle: Brazilian E-Commerce
 tags: ["project", "ai", "finance"]
 description: "As the world begins to utilize online service and stores at greater capacity it becomes a greater priority to increase the efficiency of the various processes that are required for online stores to work effectively. By analyzing the data the comes from online purchases, a better understanding can be formed about what is needed and where as well as the quantity. This data should also allow for us to better predict what orders will be needed at future times so shortages can be avoided."
 author: Oluwatobi Bolarin
+github_url: https://github.com/cybertraining-dsc/fa20-523-330/edit/main/project/project.md
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
